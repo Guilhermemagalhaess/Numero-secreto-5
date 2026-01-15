@@ -1,4 +1,4 @@
-alert ("Bem vindo ao jogo do número secreto edição 5");
+alert ("Boas vindas site!");
 let  numeroSecreto = 29;
 let chute = prompt ("Escolha um número entre 1 e 30");
 
