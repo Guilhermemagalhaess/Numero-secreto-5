@@ -1,8 +1,8 @@
 alert ("Boas vindas site!");
-let  numeroDeVendas = 50;
-let chute = prompt ("Numero de vendas");
+let  saldoDisponivel = 1000;
+let chute = prompt ("Saldo disponível");
 
-    if (numeroDeVendas == chute) {
+    if (saldoDisponivel == chute) {
     console.log ("Isso ai, você acertou");
 } else {
     alert ("VocÊ errou.")
