@@ -1,7 +1,9 @@
 alert ("Boas vindas site!");
-let  numeroSecreto = 29;
-let chute = prompt ("Escolha um número entre 1 e 30");
+let  numeroDeVendas = 50;
+let chute = prompt ("Numero de vendas");
 
-    if (chute == numeroSecreto) {
-    console.log ("Isso ai, você acertou o número secreto (29");
+    if (numeroDeVendas == chute) {
+    console.log ("Isso ai, você acertou");
+} else {
+    alert ("VocÊ errou.")
 }
